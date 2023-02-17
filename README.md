@@ -46,5 +46,5 @@ mainWindow.loadURL(
   );
 ```
 
-如果当前 node_env 环境是 `development`,执行刚刚运行起来的 http://localhost:3000，开发环境就打好了，我们可以全身心地关注于 vue 项目的开发了。
+如果当前 node_env 环境是 `development`,执行刚刚运行起来的 `http://localhost:3000`，开发环境就打好了，我们可以全身心地关注于 vue 项目的开发了。
 新增 gitee 地址
